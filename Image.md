@@ -24,3 +24,10 @@
 
 8. **Publish Changes:**
    - If you want to push the changes to your remote GitHub repository, click the "Push origin" button to publish your commit to the remote repository.
+
+
+## Author
+
+- [Poorvi Gopal](https://github.com/PoorviGopal)
+- Email: poorviadt@gmail.com
+
